@@ -1,6 +1,6 @@
-# Automatic-license-number-plate-recognition-system
-## It successfully detects and recognizes the vehicle number plate on real images using Optical Character      Recognition(OCR) method.    
-The Automated Number Plate is used for detecting crime through intelligence monitoring. This technology has many advantages such as automatic toll collection, improvement in highway efficiency fuel consumption, highly reliable, modular architecture and it compares with records on database so as to come up with specific information like vehicles owner, address etc.
+## Attendance with face recognition project
+
+## The system is developed for deploying an easy and a secure way of taking down attendance. The software first captures an image of all the authorized persons and stores the information into database. The system then stores the image by mapping it into a face coordinate structure.
 
 
-* Technology used: Matlab,Arduino,Python
+* Technology used: Matlab ,Python
